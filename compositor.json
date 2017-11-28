@@ -46,7 +46,7 @@
     },
     {
       "component": "header",
-      "heading": "Compositor",
+      "heading": "Insta Repost",
       "subhead": null,
       "children": [
         {
@@ -59,7 +59,8 @@
           "user": "kaman1",
           "repo": "Compositor"
         }
-      ]
+      ],
+      "links": []
     },
     {
       "component": "article",
@@ -67,19 +68,6 @@
         "source": "github.readme"
       },
       "html": "\n"
-    },
-    {
-      "component": "footer",
-      "links": [
-        {
-          "href": "https://github.com/kaman1/Compositor",
-          "text": "GitHub"
-        },
-        {
-          "href": "https://github.com/kaman1",
-          "text": "kaman1"
-        }
-      ]
     }
   ]
 }
